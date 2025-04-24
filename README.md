@@ -1,1 +1,1 @@
-# Cobalt-Launcher-
+# Cobalt-Launcher
