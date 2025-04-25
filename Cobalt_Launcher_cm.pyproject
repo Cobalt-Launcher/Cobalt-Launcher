@@ -1,0 +1,13 @@
+{
+    "files": [
+        "mainwindow.py",
+        "Ui/mainwindow.ui",
+        "Py/ui_mainwindow.py",
+        "Py/ui_help.py",
+        "Py/ui_accounts.py",
+        "Ui/accounts.ui",
+        "Ui/help.ui",
+        "Py/ui_settings.py",
+        "Ui/settings.ui"
+    ]
+}
