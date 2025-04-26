@@ -5,7 +5,7 @@ from PySide6.QtWidgets import QApplication, QMainWindow
 
 
 
-from ui_form import Ui_MainWindow
+from Py.ui_mainwindow import Ui_MainWindow
 
 class MainWindow(QMainWindow):
     def __init__(self, parent=None):
